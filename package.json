@@ -1,11 +1,14 @@
 {
-  "name": "ich-324-p04",
+  "name": "ich-324-p05",
   "version": "1.0.0",
   "description": "",
   "type": "commonjs",
   "main": "index.js",
-  "author": "CP-CCB",
+  "author": "CP-24SIL",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
   }
 }
